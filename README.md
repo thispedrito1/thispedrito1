@@ -13,7 +13,7 @@
 
 **AI Engineering Student** · Building things with code & curiosity
 
-[![Instagram](https://img.shields.io/badge/Instagram-thispedrito1-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thispedrito1)
+
 [![Gmail](https://img.shields.io/badge/Email-thispedrito1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thispedrito1@gmail.com)
 
 </div>
