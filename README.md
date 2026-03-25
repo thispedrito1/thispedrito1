@@ -73,7 +73,7 @@ Soy estudiante de **AI Engineering**, aprendiendo a combinar el desarrollo web c
 
 ¿Quieres colaborar o simplemente saludar? ¡Escríbeme! 😊
 
-[![Instagram](https://img.shields.io/badge/@thispedrito1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thispedrito1)
+
 [![Gmail](https://img.shields.io/badge/thispedrito1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thispedrito1@gmail.com)
 
 </div>
